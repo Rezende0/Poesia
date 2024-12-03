@@ -23,7 +23,7 @@ main p {
 
 #verso2{
     color: rgba(255, 255, 255, 0.95);
-    background: black url(../imagens/background001.jpg) left center / cover no-repeat fixed;
+    background: black url(../imagens/background001.jpg) right center / cover no-repeat fixed;
 }
 
 #verso5{
