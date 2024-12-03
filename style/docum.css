@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Passion+One:wght@700&family=Sriracha&display=swap');
+
+:root {
+    --cortextpadrao: rgb(50, 50, 50);
+    --corlink: rgb(180, 255, 220);
+
+    --font-header: 'Passion One', sans-serif;
+    --font-padrao: 'Sriracha', sans-serif
+}
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: rgb(250, 250, 240);
+}

@@ -1,0 +1,32 @@
+@charset "UTF-8";
+
+
+main{
+    font-family: var(--font-padrao);
+    font-weight: bold;
+    font-size: 1.3em;
+    text-align: left;
+    line-height: 2;
+    color: var(--cortextpadrao);
+    
+}
+
+main p {
+    margin: 30px;
+}
+
+.foto {
+    margin: 30px 0px;
+    padding: 30px 0px 30px 30px;
+    box-shadow: inset 0px 0px 30px rgba(0, 0, 0, 0.5);
+}
+
+#verso2{
+    color: rgba(255, 255, 255, 0.95);
+    background: black url(../imagens/background001.jpg) left center / cover no-repeat fixed;
+}
+
+#verso5{
+    color: rgb(0, 0, 0);
+    background: black url(../imagens/background002.jpg) left center / cover no-repeat fixed;
+}
